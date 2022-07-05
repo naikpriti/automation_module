@@ -1,0 +1,12 @@
+automation_account:
+  account:
+    name: test-example
+    resource_group_name: test
+    location: australiaeast
+    clustername: test-aks
+    timezone : "Asia/Kolkata"
+    starttime: "2022-06-07T13:20:15+05:30"
+    stoptime: "2022-06-07T13:20:15+05:30"
+  
+    
+  
